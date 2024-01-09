@@ -84,4 +84,4 @@ async def neyapmalı(ctx):
 async def bilinçlendir(ctx):
     await ctx.send(f"Kamu spotu reklamları, billboardlar, televizyon reklamları ve sosyal medya kanalları ile halka ulaşmak günümüzde artık oldukça kolay. Bu sayılanlar aracılığıyla çevre kirliliği konusunda insanlar daha bilinçli hale getirilebiliyor. Geri dönüştürülebilir olanlar dışındaki atıklar için de ayrı çöp kutularının evlerin önünde, sokaklarda, parklarda ve daha birçok yerde insanların ulaşabileceği şekilde bulundurulması önem taşıyor.")
 
-bot.run("MTE5NDM2MTc0MDI2MDAzNjY3OQ.GXPyhz.PdHzKf1bGew7nCMojiaqQG47SuuPgvhHpIEsRA")
+bot.run("TOKEN")
